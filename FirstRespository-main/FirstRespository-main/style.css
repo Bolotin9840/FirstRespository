@@ -1,0 +1,110 @@
+label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+input {
+	
+}
+
+form {
+	margin: 0 30px;
+	margin-bottom: 50px;
+	padding-bottom: 30px;
+}
+
+textarea {
+	width: 100%;
+}
+
+p {
+	margin: 0;
+
+}
+
+select {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.container {
+	width: 650px;
+	margin: 100px auto;
+
+	-webkit-box-shadow: 1px 3px 8px 0px rgba(34, 60, 80, 0.2);
+	-moz-box-shadow: 1px 3px 8px 0px rgba(34, 60, 80, 0.2);
+	box-shadow: 1px 3px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.input-fio {
+	margin-bottom: 15px;
+	width: 30%;
+	display: inline-block;
+	margin-right: 10px;
+
+}
+
+.header {
+	text-align: center;
+	padding-top: 20px;
+}
+
+.text-input{
+
+
+}
+
+.input-sex, .input-age {
+	display: inline-block;
+	width: 49%;
+
+}
+
+.container-input {
+
+}
+
+.lable-sex {
+	display: block;
+
+}
+
+.input-tel, .input-email {
+	display: inline-block;
+	width: 49%;
+
+}
+
+.container-auth {
+	margin: 10px auto;
+ 	width: 300px;
+}
+
+.lable-login, .lable-password {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+.input-login, .input-password {
+	display: inline-block;
+	width: auto;
+}
+
+.text-input-login, .text-input-password {
+	display: block;
+	margin-bottom: 10px;
+}
+
+.container-text {
+	margin-bottom: 15px;
+}
+
+.container-checkbox > *{
+	display: inline-block;
+ 
+}
+
+.container-checkbox {
+		margin-bottom: 15px;
+}
+
